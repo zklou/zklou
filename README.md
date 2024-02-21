@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <strong>
-  👨‍🎓 [**York University**](http://www.yorku.ca/) <br>
+  👨‍🎓 [**York University**]<br>
+  (http://www.yorku.ca/) <br>
   - B.Sc<br>
   - Computer Science<br>
   - 2019 - 2023 <br>
