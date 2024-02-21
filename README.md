@@ -27,7 +27,12 @@ Here are some ideas to get you started:
   <strong><a href="https://www.linkedin.com/in/zhengkun-lou/">linkedin</a></strong> |
 </p>
 <p align="center">
-<strong>🔭 Yorku New Grad! 🔭</strong><br><br>
+<strong>
+  👨‍🎓 [**Zhejiang University, China**](http://www.yorku.ca/)
+  - B.Sc
+  - Computer Science
+  - 2019 - 2023 
+</strong><br><br>
 </p>
 
 
