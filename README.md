@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <strong>
-  👨‍🎓 [**Zhejiang University, China**](http://www.yorku.ca/)
-  - B.Sc
-  - Computer Science
-  - 2019 - 2023 
+  👨‍🎓 [**York University**](http://www.yorku.ca/) <br>
+  - B.Sc<br>
+  - Computer Science<br>
+  - 2019 - 2023 <br>
 </strong><br><br>
 </p>
 
