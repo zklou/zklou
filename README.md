@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   (http://www.yorku.ca/) <br>
   - BACHELOR OF SCIENCE (BSc) COMPUTER SCIENCE <br>
   - Specialized Honours <br>
-  - 2019 - 2023 <br>
+   2019 - 2023 <br>
 </strong><br><br>
 </p>
 
