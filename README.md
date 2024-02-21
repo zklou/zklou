@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <strong>
   👨‍🎓 [**York University**]<br>
   (http://www.yorku.ca/) <br>
-  - B.Sc<br>
-  - Computer Science<br>
+  - BACHELOR OF SCIENCE (BSc) COMPUTER SCIENCE <br>
+  - Specialized Honours <br>
   - 2019 - 2023 <br>
 </strong><br><br>
 </p>
