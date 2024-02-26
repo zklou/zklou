@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
   <strong><a href="https://zklou.github.io/Pearsonal-page/">Portfolio</a></strong> |
   <strong><a href="https://www.linkedin.com/in/zhengkun-lou/">Linkedin</a></strong> |
-  <strong><a href="mailto:ZhengkunLou@gmail.com">linkedin</a></strong>
+  <strong><a href="mailto:ZhengkunLou@gmail.com">Email me</a></strong>
 </p>
 <p align="center">
 <strong>
