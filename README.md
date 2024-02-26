@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/zklou"><img src="https://github-profile-trophy.vercel.app/?username=zklou&row=2&column=3&margin-w=10&margin-h=15" alt="GitHub Trophy"></a>
 </p>
 <p align="center">
-  <strong><a href="">Portfolio</a></strong> |
+  <strong><a href="https://zklou.github.io/Pearsonal-page/">Portfolio</a></strong> |
   <strong><a href="https://www.linkedin.com/in/zhengkun-lou/">linkedin</a></strong> |
 </p>
 <p align="center">
