@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <strong><a href="https://zklou.github.io/Pearsonal-page/">Portfolio</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/zhengkun-lou/">linkedin</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/zhengkun-lou/">Linkedin</a></strong> |
+  <strong><a href="mailto:ZhengkunLou@gmail.com">linkedin</a></strong>
 </p>
 <p align="center">
 <strong>
