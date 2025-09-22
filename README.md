@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <strong>
-  
+  <p align="center">
   👨‍🎓 [**Georgia Institute of Technology**]<br>
   (https://www.gatech.edu/) <br>
   - MASTER OF SCIENCE (MSc) COMPUTER SCIENCE <br>
