@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <strong>
+  👨‍🎓 [**Georgia Institute of Technology**]<br>
+  (https://www.gatech.edu/) <br>
+  - MASTER OF SCIENCE (MSc) COMPUTER SCIENCE <br>
+  - ML/DL/SDE <br>
+   2025 - 2026 <br>
+  
   👨‍🎓 [**York University**]<br>
   (http://www.yorku.ca/) <br>
   - BACHELOR OF SCIENCE (BSc) COMPUTER SCIENCE <br>
