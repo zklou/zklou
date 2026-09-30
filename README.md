@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zklou?tab=overview"><img src="assets/contributions.svg" alt="GitHub contributions in the last year, based on the GitHub contribution calendar" width="680"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/zklou?tab=achievements"><img src="assets/trophies.svg" alt="GitHub public activity trophies" width="330"></a>
 </p>
 
